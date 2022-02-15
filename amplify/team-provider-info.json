@@ -1,0 +1,25 @@
+{
+  "devi": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-devi-72317-authRole",
+      "UnauthRoleArn": "arn:aws:iam::964990468742:role/amplify-authcra-devi-72317-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::964990468742:role/amplify-authcra-devi-72317-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-authcra-devi-72317-deployment",
+      "UnauthRoleName": "amplify-authcra-devi-72317-unauthRole",
+      "StackName": "amplify-authcra-devi-72317",
+      "StackId": "arn:aws:cloudformation:eu-west-1:964990468742:stack/amplify-authcra-devi-72317/2569d530-8e30-11ec-a26b-0af8067269bb",
+      "AmplifyAppId": "d33p6575rwejey"
+    },
+    "categories": {
+      "auth": {
+        "thingsreactappauthame2e727ee": {
+          "userPoolId": "eu-west-1_nKWZpgD7r",
+          "userPoolName": "cybereye test pool",
+          "webClientId": "61lft6aansooogbs02s02elqg5",
+          "nativeClientId": "61lft6aansooogbs02s02elqg5"
+        }
+      }
+    }
+  }
+}
